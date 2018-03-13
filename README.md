@@ -1,2 +1,2 @@
-# Machine-Learning-in-Python
-## scikit-learn-
+# Machine Learning in Python
+## scikit-learn
